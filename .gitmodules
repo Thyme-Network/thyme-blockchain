@@ -1,0 +1,7 @@
+[submodule "thyme-blockchain-gui"]
+	path = thyme-blockchain-gui
+	url = https://github.com/Thyme-Network/thyme-blockchain-gui
+	branch = main
+[submodule "mozilla-ca"]
+	path = mozilla-ca
+	url = https://github.com/Chia-Network/mozilla-ca
